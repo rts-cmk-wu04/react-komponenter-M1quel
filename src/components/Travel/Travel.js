@@ -17,12 +17,12 @@ function Travel() {
 	return (
 		<article className="travel">
             <div className="travelImgWrapper">
-                <img className="travelImg" src="https://via.placeholder.com/370x230" alt=""/>
+                <img className="travelImg" src={ data.travel && data.travel.img } alt=""/>
             </div>
             <div className="travelMainContent">
-                <p className="travelSubHeading">Travel</p>
-                <h1 className="travelHeading">Surfing in Maldives</h1>
-                <p className="travelPara">It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside.</p>
+                <p className="travelSubHeading">{data.travel && data.travel.subHeading}</p>
+                <h1 className="travelHeading">{data.travel && data.travel.heading}</h1>
+                <p className="travelPara">{data.travel && data.travel.para}</p>
             </div>
         </article>
 	);
