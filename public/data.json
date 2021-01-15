@@ -37,29 +37,29 @@
             "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
         }
     },
-    "collections": {
-        "collection10": {
+    "collections": [
+        {
             "collectionNum": "#10",
             "headerImg": "https://via.placeholder.com/200x100",
             "profileImg": "https://via.placeholder.com/200x100",
             "heading": "Off-the-grid experiences",
             "user": "Melanie S."
         },
-        "collection1": {
+        {
             "collectionNum": "#1",
             "headerImg": "https://via.placeholder.com/200x100",
             "profileImg": "https://via.placeholder.com/200x100",
             "heading": "Shapes, triangles & fashion",
             "user": "Saraha F."
         },
-        "collection123": {
+        {
             "collectionNum": "#123",
             "headerImg": "https://via.placeholder.com/200x100",
             "profileImg": "https://via.placeholder.com/200x100",
             "heading": "In-depth architecture",
             "user": "Benhour"
         }
-    },
+    ],
 
     "latestNews": {
         "heading": "Latest News",
