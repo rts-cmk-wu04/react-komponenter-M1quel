@@ -1,0 +1,113 @@
+{
+    "travel": {
+        "heading": "Surfing in Maldives",
+        "img": "./travelImg.png",
+        "subHeading": "travel",
+        "para": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside."
+    },
+    "experience": {
+        "heading": "Outdoor Experience",
+        "img": "./experienceImg.png",
+        "para": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside.",
+        "imgGallery": {
+            "img1": "./imgGallery1.png",
+            "img2": "./imgGallery2.png",
+            "img3": "./imgGallery3.png"
+        }
+    },
+    "utility": {
+        "delevery": {
+            "img": "./deleveryIcon.png",
+            "heading": "On-time delevery",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        "parcels": {
+            "img": "./parcelsIcon.png",
+            "heading": "Parcels",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        "qualityCheck": {
+            "img": "qualityIcon.png",
+            "heading": "Quality check",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        "customerService": {
+            "img": "customerService.png",
+            "heading": "Customer service",
+            "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        }
+    },
+    "collections": [
+        {
+            "collectionNum": "#10",
+            "headerImg": "collection1.png",
+            "profileImg": "user1.png",
+            "heading": "Off-the-grid experiences",
+            "user": "Melanie S."
+        },
+        {
+            "collectionNum": "#1",
+            "headerImg": "collection2.png",
+            "profileImg": "user2.png",
+            "heading": "Shapes, triangles & fashion",
+            "user": "Saraha F."
+        },
+        {
+            "collectionNum": "#123",
+            "headerImg": "collection3.png",
+            "profileImg": "user3.png",
+            "heading": "In-depth architecture",
+            "user": "Benhour"
+        }
+    ],
+
+    "latestNews": {
+        "heading": "Latest News",
+        "news": {
+            "nature": {
+                "headingColor": "#40BE65",
+                "img": "nature.png",
+                "heading": "Nature",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "animalKingdom": {
+                "headingColor": "#0072CA",
+                "img": "animalKingdom.png",
+                "heading": "Animal Kingdom",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "technology": {
+                "headingColor": "#D9A34A",
+                "img": "technology.png",
+                "heading": "Technology",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "explore": {
+                "headingColor": "#FF4967",
+                "img": "explore.png",
+                "heading": "Explore",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "africaZoo": {
+                "headingColor": "#0072CA",
+                "img": "africaZoo.png",
+                "heading": "Africa Zoo",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            }
+        }
+    },
+    "newsCategorys": [
+        {
+            "color": "#E44385",
+            "img": "category1.png",
+            "heading": "food & Lifestyle",
+            "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        {
+            "color": "#0AACDC",
+            "img": "category2.png",
+            "heading": "fashion",
+            "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        }
+    ]
+}
