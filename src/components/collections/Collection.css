@@ -5,6 +5,7 @@
 }
 
 .collection {
+    background-color: #fff;
     height: 373px;
     width: 373px;
     display: flex;

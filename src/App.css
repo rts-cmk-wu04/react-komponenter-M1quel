@@ -4,3 +4,13 @@
   border: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-color: rgb(199, 199, 199);
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

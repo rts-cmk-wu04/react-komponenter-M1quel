@@ -5,10 +5,13 @@
 }
 
 .category {
+    background-color: #fff;
     margin: 20px;
     display: flex;
     width: 300px;
     align-items: center;
+    padding: 20px;
+    border-radius: 10px;
 }
 .categoryImgWrapper {
     border-radius: 10px;

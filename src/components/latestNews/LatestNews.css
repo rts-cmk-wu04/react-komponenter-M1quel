@@ -10,6 +10,7 @@
     align-items: center;
     gap: 20px;
     padding: 20px;
+    background-color: #fff;
 }
 
 .latestNewsHeader {
@@ -37,6 +38,7 @@
     color: #7B8591;
     border-top: 1px solid #95989A;
     text-transform: uppercase;
+    background-color: #fff;
 }
 .latestNewsFooter h2{
     font-size: 14px;

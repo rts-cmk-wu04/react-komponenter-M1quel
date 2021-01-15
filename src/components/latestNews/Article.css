@@ -5,6 +5,7 @@
 }
 .newsArticleWrapper img {
     display: block;
+    width: 100px;
 }
 
 .newsArticleDesc {

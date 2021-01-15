@@ -8,12 +8,15 @@ import LatestNews from './components/latestNews/LatestNews';
 
 function App() {
   return (
-    <Utilities/>
-    <Travel/>
-    <LatestNews/>
-    <Experience/>
-    <Collections/>
-    <Categorys/>
+
+    <section className="mainContainer">
+      <Travel/>
+      <Experience/>
+      <Utilities/>
+      <Collections/>
+      <Categorys/>
+      <LatestNews/>
+    </section>
   );
 }
 
