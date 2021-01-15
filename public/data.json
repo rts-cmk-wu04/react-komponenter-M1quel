@@ -9,7 +9,7 @@
         "heading": "Outdoor Experience",
         "img": "https://via.placeholder.com/290x375",
         "para": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside.",
-        "gallery-imgs": {
+        "imgGallery": {
             "img1": "https://via.placeholder.com/100",
             "img2": "https://via.placeholder.com/100",
             "img3": "https://via.placeholder.com/100"
@@ -105,6 +105,4 @@
             "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
         }
     ]
-
-
 }
