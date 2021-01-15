@@ -9,11 +9,100 @@
         "heading": "Outdoor Experience",
         "img": "https://via.placeholder.com/290x375",
         "para": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside.",
-        "galleryImgs": {
+        "imgGallery": {
             "img1": "https://via.placeholder.com/100",
             "img2": "https://via.placeholder.com/100",
             "img3": "https://via.placeholder.com/100"
         }
-    }
+    },
+    "utility": {
+        "delevery": {
+            "img": "https://via.placeholder.com/100",
+            "heading": "On-time delevery",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        "parcels": {
+            "img": "https://via.placeholder.com/100",
+            "heading": "Parcels",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        "qualityCheck": {
+            "img": "https://via.placeholder.com/100",
+            "heading": "Quality check",
+            "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        "customerService": {
+            "img": "https://via.placeholder.com/100",
+            "heading": "Customer service",
+            "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        }
+    },
+    "collections": [
+        {
+            "collectionNum": "#10",
+            "headerImg": "https://via.placeholder.com/200x100",
+            "profileImg": "https://via.placeholder.com/200x100",
+            "heading": "Off-the-grid experiences",
+            "user": "Melanie S."
+        },
+        {
+            "collectionNum": "#1",
+            "headerImg": "https://via.placeholder.com/200x100",
+            "profileImg": "https://via.placeholder.com/200x100",
+            "heading": "Shapes, triangles & fashion",
+            "user": "Saraha F."
+        },
+        {
+            "collectionNum": "#123",
+            "headerImg": "https://via.placeholder.com/200x100",
+            "profileImg": "https://via.placeholder.com/200x100",
+            "heading": "In-depth architecture",
+            "user": "Benhour"
+        }
+    ],
 
+    "latestNews": {
+        "heading": "Latest News",
+        "news": {
+            "nature": {
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Nature",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "animalKingdom": {
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Animal Kingdom",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "technology": {
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Technology",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "explore": {
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Explore",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "africaZoo": {
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Africa Zoo",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            }
+        }
+    },
+    "newsCategorys": [
+        {
+            "color": "#E44385",
+            "img": "https://via.placeholder.com/100",
+            "heading": "food & Lifestyle",
+            "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        {
+            "color": "#0AACDC",
+            "img": "https://via.placeholder.com/100",
+            "heading": "fashion",
+            "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        }
+    ]
 }
