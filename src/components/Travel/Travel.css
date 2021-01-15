@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(199, 199, 199);
+}
+
+.travel {
+    border-radius: 10px;
+    background-color: #fff;
+    width: 370px;
+    height: fit-content;
+    overflow: hidden;
+}
+
+.travelMainContent {
+    padding: 30px;
+}
+
+.travelSubHeading {
+    color: #33439B;
+    font-size: 11px;
+}
+
+.travelHeading {
+    color: #303336;
+    font-size: 28px;
+}
+
+.travelPara {
+    color: #7B8591;
+    font-size: 16;
+    margin-top: 10px;
+}
