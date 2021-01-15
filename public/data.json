@@ -91,18 +91,20 @@
             }
         }
     },
-    "newsCategorys": {
-        "foodAndLifestyle": {
+    "newsCategorys": [
+        {
+            "color": "#E44385",
             "img": "https://via.placeholder.com/100",
             "heading": "food & Lifestyle",
             "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
         },
-        "fashion": {
+        {
+            "color": "#0AACDC",
             "img": "https://via.placeholder.com/100",
             "heading": "fashion",
             "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
         }
-    }
+    ]
 
 
 }

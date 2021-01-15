@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.category {
+    margin: 20px;
+    display: flex;
+    width: 300px;
+    align-items: center;
+}
+.categoryImgWrapper {
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    flex-shrink: 0;
+}
+
+.categoryImgWrapper img {
+    height: 100%;
+}
+
+
+.categoryMain {
+    margin-left: 20px;
+}
+.categoryHeading {
+    font-size: 11px;
+    text-transform: uppercase;
+}
+.categoryPara {
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 3;
+   -webkit-box-orient: vertical;
+   font-size: 16px;
+   color: #7B8591;
+}
