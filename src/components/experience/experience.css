@@ -1,0 +1,56 @@
+.experienceWrapper {
+    padding: 50px;
+    background-color: #fff;
+    width: 700px;
+    border-radius: 10px;
+}
+
+.experienceInnerWrapper {
+    position: relative;
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+
+
+.experienceContentWrapper {
+    margin-top: 40px;
+}
+
+.experienceHeading {
+    font-size: 45px;
+    color: #303336;
+}
+.experiencePara {
+    margin-top: 10px;
+    font-size: 16;
+    color: #7B8591;
+    line-height: 22px;
+}
+
+.imgWrapper {
+    flex-shrink: 0;
+    width: 290px;
+    border-radius: 10px;
+    height: 375px;
+    overflow: hidden;
+}
+
+
+.experienceLeisure {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 0;
+    top: 0;
+    background-color: #005AEE;
+    height: 30px;
+    padding: 0 20px;
+    border-radius: 15px;
+    color: white;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}

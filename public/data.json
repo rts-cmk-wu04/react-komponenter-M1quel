@@ -9,7 +9,7 @@
         "heading": "Outdoor Experience",
         "img": "https://via.placeholder.com/290x375",
         "para": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside.",
-        "gallery-imgs": {
+        "imgGallery": {
             "img1": "https://via.placeholder.com/100",
             "img2": "https://via.placeholder.com/100",
             "img3": "https://via.placeholder.com/100"
@@ -36,6 +36,78 @@
             "heading": "Customer service",
             "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
         }
-    }
+    },
+    "collections": [
+        {
+            "collectionNum": "#10",
+            "headerImg": "https://via.placeholder.com/200x100",
+            "profileImg": "https://via.placeholder.com/200x100",
+            "heading": "Off-the-grid experiences",
+            "user": "Melanie S."
+        },
+        {
+            "collectionNum": "#1",
+            "headerImg": "https://via.placeholder.com/200x100",
+            "profileImg": "https://via.placeholder.com/200x100",
+            "heading": "Shapes, triangles & fashion",
+            "user": "Saraha F."
+        },
+        {
+            "collectionNum": "#123",
+            "headerImg": "https://via.placeholder.com/200x100",
+            "profileImg": "https://via.placeholder.com/200x100",
+            "heading": "In-depth architecture",
+            "user": "Benhour"
+        }
+    ],
 
+    "latestNews": {
+        "heading": "Latest News",
+        "news": {
+            "nature": {
+                "headingColor": "#40BE65",
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Nature",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "animalKingdom": {
+                "headingColor": "#0072CA",
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Animal Kingdom",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "technology": {
+                "headingColor": "#D9A34A",
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Technology",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "explore": {
+                "headingColor": "#FF4967",
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Explore",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            },
+            "africaZoo": {
+                "headingColor": "#0072CA",
+                "img": "https:/via.placeholder.com/100",
+                "heading": "Africa Zoo",
+                "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+            }
+        }
+    },
+    "newsCategorys": [
+        {
+            "color": "#E44385",
+            "img": "https://via.placeholder.com/100",
+            "heading": "food & Lifestyle",
+            "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        },
+        {
+            "color": "#0AACDC",
+            "img": "https://via.placeholder.com/100",
+            "heading": "fashion",
+            "para":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar. "
+        }
+    ]
 }
